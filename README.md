@@ -185,3 +185,6 @@ Make sure that you have installed yarn and git
 1. If you can't find your target language from the above list, Download the Engish source file from [this link](./src/assets/locales/en/translation.json)
 
 2. When you finish translation, submit the source file to [this link](https://github.com/koodo-reader/koodo-reader/issues/new?assignees=&labels=submit+translation&projects=&template=3_submit_translation.yml). Pull request is also welcomed.
+### Todo
+- 可以添加书签
+- 增加快捷键
